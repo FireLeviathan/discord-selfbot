@@ -17,17 +17,14 @@ don't forget to change the message in /config as well as your user id and token.
 - node.js installed (with npm)
 - discord.js module installed (npm install discord.js
 
-clone this repository (git clone https://github.com/FireLeviathan/discord-selfbot)
+#### using it
 
-get your discord id, you can do it by right clicking on your profile and selecting copy id, you need developer mode active (found in option, advanced)
-
-get your discord token
-
-change the values in /config with your discord token and your discord id
-
-write your own message in /config
-
-open a terminal in discord-selfbot directory and run the selfbot with "node main.js"
+- clone this repository (git clone https://github.com/FireLeviathan/discord-selfbot)
+- get your discord id, you can do it by right clicking on your profile and selecting copy id, you need developer mode active (found in option, advanced)
+- get your discord token
+- change the values in /config with your discord token and your discord id
+- write your own message in /config
+- open a terminal in discord-selfbot directory and run the selfbot with "node main.js"
 
 
 
