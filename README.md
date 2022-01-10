@@ -15,7 +15,7 @@ don't forget to change the message in /config as well as your user id and token.
 #### prerequisites
 
 - node.js installed (with npm)
-- discord.js module installed (npm install discord.js
+- discord.js module installed (npm install discord.js)
 
 #### using it
 
